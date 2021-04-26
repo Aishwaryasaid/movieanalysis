@@ -1,0 +1,455 @@
+,title,runtime,maturity,studio,Genre,avg_votes,votes,country
+0,Marooned,129.0,All,Sony Pictures Entertainment,Action,5.9,4524.0,USA
+1,Dredd,95.0,18+,Lionsgate Films,Action,7.1,246284.0,"UK, South Africa, USA, India"
+3,Back to the Future Part III,118.0,7+,MCA Universal Home Video,Action,7.4,393950.0,USA
+6,Never Back Down,113.0,13+,Summit Entertainment,Action,6.6,94632.0,USA
+7,The Devil's Double,108.0,18+,Lionsgate,Action,7.1,59707.0,"Belgium, Netherlands"
+9,Cliffhanger,112.0,18+,Sony Pictures Home Entertainment,Action,6.4,117604.0,"USA, Italy, France"
+11,The Boondock Saints II: All Saints Day,138.0,18+,Apparition,Action,6.3,60835.0,USA
+12,Kill Order,77.0,16+,RLJ Entertainment,Action,4.1,764.0,Canada
+13,'71,99.0,18+,Roadside Attractions,Action,7.2,49740.0,UK
+14,Reset,106.0,13+,Well Go USA Entertainment,Action,5.3,999.0,China
+15,American Ultra,95.0,18+,Lionsgate Pictures,Action,6.1,82946.0,"USA, Switzerland"
+16,Convoy,111.0,7+,Lionsgate,Action,6.4,14811.0,USA
+18,Beowulf,114.0,13+,Paramount Pictures,Action,6.2,159693.0,"USA, UK"
+20,24 Hours to Live,93.0,18+,Saban Films,Action,5.8,12069.0,"South Africa, China, USA"
+21,Tarzan,94.0,7+,Buena Vista Pictures,Action,4.8,12043.0,"Germany, USA"
+23,Captain America: The First Avenger,124.0,13+,Paramount Pictures,Action,6.9,723473.0,USA
+25,The Shootist,99.0,7+,Paramount Home Video,Action,7.6,21629.0,USA
+26,The Vikings,116.0,13+,MGM Home Entertainment,Action,7.1,12645.0,USA
+27,The Return of Swamp Thing,87.0,13+,Sony Pictures Home Entertainment,Action,4.7,4174.0,USA
+28,Gone in 60 Seconds,97.0,16+,H.B. Halicki Mercantile Co.,Action,6.4,8156.0,USA
+29,The A-Team,118.0,13+,20th Century Fox,Action,6.7,243142.0,"USA, UK"
+31,The Expendables 3,126.0,13+,Lionsgate Pictures,Action,6.1,165983.0,"USA, France, Germany, Bulgaria"
+33,Biker Boyz,110.0,13+,Dreamworks Distribution LLC,Action,4.7,12621.0,USA
+34,The Last Stand,107.0,18+,Lionsgate Films,Action,6.3,131686.0,USA
+36,Vikingdom,115.0,16+,Epic Pictures Releasing,Action,3.3,3197.0,"Malaysia, USA"
+37,Kill Command,99.0,16+,Vertigo Films,Action,5.7,12864.0,UK
+38,The Time Machine,95.0,13+,MGM Home Entertainment,Action,6.0,117239.0,"USA, United Arab Emirates"
+42,The African Queen,105.0,13+,Twentieth Century Fox Home Entertainment,Action,7.7,70236.0,"UK, USA"
+43,Platoon,119.0,13+,Orion Pictures,Action,8.1,373386.0,"USA, UK"
+45,Donovan's Reef,108.0,7+,Paramount Pictures,Action,6.9,7598.0,USA
+46,The Final Countdown,102.0,7+,Live Home Video,Action,6.7,20927.0,USA
+48,Hot Rod,87.0,13+,Paramount Pictures,Action,6.7,75710.0,USA
+50,The Day After Tomorrow,123.0,13+,20th Century Fox,Action,6.4,408418.0,USA
+52,The Spy Next Door,94.0,7+,Lionsgate,Action,5.4,39646.0,USA
+54,Mad Max,93.0,18+,s,Action,6.9,187876.0,"Australia, USA"
+56,The Colony,94.0,16+,Image Entertainment,Action,5.3,42548.0,"Canada, USA"
+57,True Grit,128.0,All,Paramount Pictures,Action,7.6,305020.0,USA
+59,Thunderheart,119.0,18+,Sony Pictures Home Entertainment,Action,6.8,13704.0,USA
+61,Star Trek II: The Wrath of Khan,113.0,16+,Paramount Pictures,Action,7.7,110769.0,USA
+64,1492: Conquest of Paradise,150.0,13+,Paramount Home Video,Action,6.5,27667.0,"UK, France, Spain"
+65,The Black Hole,111.0,13+,Walt Disney Productions,Action,6.0,22902.0,USA
+66,Lord of War,121.0,18+,Lions Gate,Action,7.6,289908.0,"USA, Germany, France"
+67,Open Range,138.0,18+,Buena Vista Pictures,Action,7.4,65567.0,USA
+70,The Darjeeling Limited,91.0,18+,Fox Searchlight Pictures,Action,7.2,176784.0,USA
+71,Dragonslayer,109.0,7+,Paramount Pictures,Action,6.7,14686.0,"USA, UK"
+72,Shaft,99.0,18+,Paramount Pictures,Action,6.4,41924.0,USA
+78,The Beastmaster,118.0,13+,MGM Home Entertainment,Action,6.2,20053.0,"USA, West Germany"
+80,Saturn 3,87.0,18+,Associated Film Distribution,Action,5.2,8178.0,UK
+81,The Angry Red Planet,83.0,13+,American International Pictures (AIP),Action,5.3,2782.0,USA
+82,Crocodile Dundee in Los Angeles,94.0,13+,Paramount,Action,4.8,23190.0,"Australia, USA"
+83,Scorched Earth,93.0,18+,"Lighthouse Pictures, Inc.",Action,4.5,2519.0,"Canada, USA"
+84,Out of Time,92.0,16+,MGM/UA,Action,6.5,56049.0,USA
+85,Paycheck,118.0,13+,Paramount Pictures,Action,6.3,101841.0,"USA, Canada"
+87,Hondo,84.0,7+,Batjac Productions Inc.,Action,7.1,9207.0,USA
+88,Hotel Artemis,93.0,18+,Global Road Entertainment,Action,6.1,42145.0,"UK, USA"
+90,The Terminator,107.0,18+,Orion Pictures Corporation,Action,8.0,784356.0,"UK, USA"
+92,Hard Rain,96.0,18+,Paramount Home Video,Action,5.9,31649.0,"USA, UK, Denmark, France, Japan, New Zealand, Germany, Australia"
+93,Star Trek: The Motion Picture,131.0,All,Paramount Home Video,Action,6.4,79886.0,USA
+95,Warlock,103.0,18+,Trimark,Action,6.2,14631.0,USA
+97,The Lost World,98.0,7+,eRealBiz,Action,3.9,788.0,"Canada, USA"
+101,Solarbabies,94.0,13+,MGM Home Entertainment,Action,4.8,3930.0,USA
+102,Australia,165.0,13+,20th Century Fox,Action,6.6,117975.0,"UK, Australia, USA"
+106,The Great Escape,172.0,13+,United Artists,Action,8.2,219677.0,USA
+107,The Prestige,130.0,13+,Buena Vista Pictures,Action,8.5,1155723.0,"UK, USA"
+109,The Phantom,100.0,13+,Paramount Home Video,Action,4.9,31891.0,"Australia, USA"
+112,Black Moon Rising,99.0,18+,Starmaker Entertainment,Action,5.5,5095.0,USA
+113,Robot Overlords,90.0,13+,Vertical Entertainment,Action,4.6,6593.0,"UK, Canada"
+114,Max Payne,99.0,13+,20th Century Fox,Action,5.4,120941.0,"USA, Canada"
+116,Survivor,92.0,13+,Alchemy,Action,4.0,1867.0,USA
+119,In the Name of the King: A Dungeon Siege Tale,121.0,13+,Freestyle Releasing,Action,3.8,43913.0,"Germany, Canada, USA"
+120,The Monster Squad,82.0,13+,Vestron Video,Action,7.1,27232.0,USA
+121,Warrior,139.0,13+,Lionsgate,Action,8.2,427585.0,USA
+123,Inception,148.0,13+,Warner Bros. Pictures,Action,8.8,2002816.0,"USA, UK"
+126,Enemy at the Gates,131.0,18+,Paramount Pictures,Action,7.6,238274.0,"Ireland, UK, France, Germany, USA"
+127,The Man Who Shot Liberty Valance,123.0,13+,Paramount Home Video,Action,8.1,67255.0,USA
+128,The Program,112.0,18+,Buena Vista,Action,6.5,15977.0,"UK, USA, France"
+132,Jabberwocky,105.0,7+,Sony Pictures Entertainment,Action,6.2,12901.0,UK
+133,Hancock,92.0,13+,Columbia Pictures,Action,6.4,437405.0,USA
+135,Unlocked,98.0,18+,Lionsgate Premiere,Action,6.2,28056.0,"Czech Republic, Switzerland, UK, USA, France"
+136,Support Your Local Gunfighter,92.0,13+,United Artists,Action,6.9,4976.0,USA
+137,Papillon,133.0,18+,Twentieth Century Fox Home Entertainment,Action,7.2,49312.0,"Czech Republic, Spain"
+139,The Peacemaker,123.0,18+,Dreamworks,Action,5.9,53180.0,USA
+141,Escape Plan 2: Hades,93.0,18+,Summit Entertainment,Action,3.8,26813.0,"China, USA"
+142,7 Guardians of the Tomb,90.0,18+,Gravitas Ventures,Action,4.4,3087.0,"China, Australia, Russia, Thailand"
+143,Cool World,101.0,13+,Paramount Home Video,Action,4.9,20371.0,USA
+144,Clear and Present Danger,141.0,13+,Paramount Home Video,Action,6.9,87565.0,"USA, Mexico"
+145,Resident Evil: Afterlife,96.0,16+,Sony Pictures/Screen Gems,Action,5.8,159831.0,"Germany, France, Canada, UK, China, USA"
+146,Shottas,98.0,18+,Sony Pictures,Action,6.2,3993.0,"USA, Jamaica"
+147,Iron Eagle,116.0,13+,TriStar Pictures,Action,5.5,13106.0,"USA, Israel, Canada"
+148,Shooter,125.0,18+,Paramount Pictures,Action,6.5,101.0,India
+152,Iron Sky,92.0,18+,Entertainment One Pictures,Action,5.9,90446.0,"Finland, Germany, Australia, France, Norway, Belgium, Denmark, UK"
+153,Virus,108.0,18+,Universal,Action,8.0,3659.0,India
+161,Gringo,110.0,18+,Amazon Studios and STX Entertainment,Action,6.1,25700.0,"Australia, USA, Mexico"
+162,Gunfight at the O.K. Corral,122.0,13+,Paramount Pictures,Action,7.2,13635.0,USA
+163,Tekken,91.0,18+,Crystal Sky Pictures,Action,4.8,25893.0,"Japan, USA"
+165,The Sons of Katie Elder,121.0,13+,Paramount Pictures,Action,7.2,14117.0,USA
+166,Replicant,100.0,18+,Artisan Entertainment,Action,5.4,13508.0,USA
+167,Marauders,107.0,18+,Emmett/Furla Films,Action,5.5,18512.0,"Canada, USA"
+169,Most Wanted,124.0,18+,New Line Home Entertainment,Action,5.6,5590.0,USA
+170,Charlie's Angels,98.0,13+,Columbia Pictures,Action,4.7,49824.0,"Germany, USA"
+174,The Expendables,103.0,18+,Lionsgate Films,Action,6.5,321130.0,"USA, Bulgaria, Spain, Germany"
+178,Small Soldiers,109.0,13+,Dreamworks,Action,6.2,90196.0,USA
+180,Basic,98.0,18+,Sony Pictures Entertainment,Action,6.5,58487.0,"Germany, USA"
+182,Young Sherlock Holmes,108.0,13+,Paramount Pictures,Action,6.8,18801.0,USA
+183,The Expendables 2,102.0,18+,Lionsgate,Action,6.6,288369.0,"USA, Germany, Bulgaria, China"
+185,Rescue Dawn,125.0,13+,MGM,Action,7.3,99594.0,"USA, Luxembourg"
+186,Star Trek Beyond,122.0,13+,Paramount Pictures,Action,7.1,223293.0,"USA, China, United Arab Emirates, Canada"
+189,Safe,94.0,18+,Lionsgate Films,Action,6.5,101557.0,USA
+192,Leviathan,98.0,18+,MGM Home Entertainment,Action,5.8,18231.0,"USA, Italy"
+194,DeepStar Six,99.0,18+,Carolco Pictures,Action,5.4,10162.0,USA
+195,Changing Lanes,98.0,18+,Paramount Pictures,Action,6.4,66104.0,USA
+196,Bad Boys,123.0,18+,Sony Pictures Home Entertainment,Action,6.9,235440.0,USA
+198,Resident Evil: Extinction,94.0,18+,Sony Pictures,Action,6.3,180851.0,"France, Australia, Germany, UK, USA, Mexico, Canada"
+200,Back to the Future,116.0,7+,Universal Pictures,Action,8.5,1027330.0,USA
+203,Abduction,105.0,13+,Lionsgate Films,Action,4.9,1856.0,China
+207,The Ghost and the Darkness,109.0,18+,Paramount Home Video,Action,6.8,55403.0,"Germany, USA"
+208,Patriot Games,116.0,18+,Paramount Pictures,Action,6.9,100936.0,USA
+210,Chillerama,119.0,18+,Image Entertainment,Action,5.7,4116.0,USA
+211,The Adventures of Tintin,106.0,7+,Paramount,Action,7.3,213212.0,"USA, New Zealand, UK, France, Australia"
+212,The Alamo,161.0,13+,Buena Vista Pictures,Action,6.0,19363.0,USA
+214,Driven,117.0,13+,Warner Bros. Pictures,Action,6.3,1434.0,USA
+220,The Saint,116.0,13+,Paramount,Action,6.3,61535.0,USA
+222,Wolves,90.0,18+,Ketchup Entertainment,Action,5.7,1075.0,USA
+226,Minority Report,145.0,13+,Dreamworks,Action,7.6,498830.0,USA
+229,Layer Cake,105.0,18+,Sony Classics,Action,7.3,163745.0,UK
+230,Xchange,109.0,18+,Trimark,Action,5.6,2426.0,Canada
+231,The Sum of All Fears,123.0,13+,Paramount Pictures,Action,6.4,101506.0,"USA, Germany, Canada"
+233,Unstoppable,98.0,13+,20th Century Fox,Action,6.8,181877.0,USA
+235,Rio Grande,105.0,13+,Artisan Entertainment,Action,7.1,14026.0,USA
+236,Barbarella,98.0,13+,Universal Pictures,Action,5.9,31597.0,"France, Italy"
+238,The Blue Lagoon,104.0,18+,Sony Pictures Entertainment,Action,5.8,61645.0,USA
+242,The Celestine Prophecy,99.0,7+,Celestine Films,Action,4.9,3557.0,USA
+243,Ink,106.0,16+,eOne Entertainment Distribution,Action,6.9,20866.0,USA
+245,The Dinosaur Project,82.0,13+,Uncork'd Entertainment,Action,4.6,5059.0,UK
+246,The Last of the Mohicans,114.0,18+,Twentieth Century Fox Home Entertainment,Action,7.7,145731.0,USA
+254,Jumper,88.0,13+,20th Century Fox,Action,6.1,282968.0,"USA, Canada"
+257,Air Force One,124.0,18+,Columbia Pictures,Action,6.5,176882.0,"USA, Germany"
+259,Super 8,111.0,13+,Paramount Pictures,Action,7.0,334427.0,USA
+262,The Court Jester,101.0,All,Paramount Home Video,Action,7.9,11368.0,USA
+263,Cromwell,139.0,All,Columbia Pictures,Action,6.9,4906.0,"UK, USA"
+264,Shanghai Noon,110.0,13+,Buena Vista Internationa,Action,6.6,117582.0,"USA, Hong Kong"
+266,Legion,97.0,16+,Screen Gems,Action,5.2,97780.0,USA
+267,Motorama,89.0,18+,Sony Pictures Home Entertainment,Action,6.4,1701.0,USA
+268,Young Ones,99.0,18+,Screen Media Ventures,Action,5.9,9119.0,"South Africa, Ireland, USA"
+269,Star Trek: Insurrection,102.0,13+,Paramount Pictures,Action,6.4,69370.0,USA
+272,Final Fantasy: The Spirits Within,105.0,13+,Columbia Pictures,NaN,6.4,79526.0,"USA, Japan"
+274,The Last Unicorn,92.0,All,Jensen Farley Pictures,NaN,7.5,23902.0,"UK, France, West Germany, Japan, USA"
+277,Charlotte's Web,94.0,All,Paramount Pictures,NaN,6.3,36300.0,"USA, Germany, Australia"
+283,How to Train Your Dragon,97.0,7+,Paramount/DWA,NaN,8.1,651499.0,USA
+287,Howl,80.0,16+,Oscilloscope Pictures,NaN,5.4,11269.0,UK
+289,Macbeth,113.0,18+,The Weinstein Company,Art&Foreign,6.7,784.0,UK
+294,Priceless,99.0,13+,Samuel Goldwyn Films,Art&Foreign,6.1,3335.0,USA
+295,Wuthering Heights,105.0,13+,Media Home Entertainment,Art&Foreign,6.0,9163.0,UK
+299,Angel-A,90.0,18+,Sony Pictures Classics,Art&Foreign,7.1,31528.0,France
+300,Angela's Ashes,145.0,18+,Paramount Pictures,Art&Foreign,7.3,20095.0,"USA, Ireland"
+303,Melancholia,135.0,18+,Magnolia Pictures,Art&Foreign,7.2,164471.0,"Denmark, Sweden, France, Germany"
+311,The Love Punch,94.0,13+,Ketchup Entertainment,Art&Foreign,5.8,12677.0,"France, UK"
+312,The Whistleblower,111.0,18+,IDP/Samuel goldwyn Films,Art&Foreign,7.1,31171.0,"Canada, Germany"
+313,The Field,92.0,13+,Live Home Video,Art&Foreign,4.2,208.0,USA
+315,These Final Hours,86.0,13+,Well Go USA,Art&Foreign,6.7,15699.0,Australia
+317,The Dark,90.0,18+,Dark Sky Films,Art&Foreign,5.6,4170.0,Austria
+323,Evolution,101.0,13+,Les Films du Worso,Art&Foreign,6.1,118060.0,USA
+325,The Returned,98.0,13+,levelFILM,Art&Foreign,5.9,7987.0,"Spain, Canada"
+328,Descent,96.0,7+,City Lights Pictures,Art&Foreign,4.8,2888.0,USA
+330,Dracula,89.0,18+,Universal Studios,Art&Foreign,7.4,187216.0,USA
+334,Slipstream,86.0,18+,Strand Releasing,Art&Foreign,4.9,4576.0,USA
+337,Harry Brown,103.0,18+,Samuel Goldwyn Films,Art&Foreign,7.2,83355.0,UK
+338,Space Truckers,96.0,13+,Sterling Entertainment,Art&Foreign,5.4,6528.0,"UK, USA, Ireland"
+339,Blue Hawaii,101.0,7+,Paramount Pictures,Classics,6.2,5371.0,USA
+340,The Quiet Man,129.0,13+,Republic Pictures,Classics,7.7,33851.0,USA
+341,Pajama Party,85.0,13+,James H. Nicholson Productions,Classics,4.9,886.0,USA
+342,Svengali,81.0,18+,Warner Bros.,Classics,5.6,991.0,UK
+345,Hans Christian Andersen,112.0,13+,MGM,Classics,6.9,3359.0,USA
+353,McLintock!,126.0,All,United Artists,Classics,7.2,12679.0,USA
+354,"Die, Monster, Die!",78.0,18+,HBO Video,Classics,5.6,2751.0,UK
+355,The Bishop's Wife,110.0,13+,RKO Radio Pictures,Classics,7.6,13635.0,USA
+362,The Greatest Story Ever Told,199.0,13+,MGM Home Entertainment,Classics,6.6,8927.0,USA
+363,Invasion of the Body Snatchers,80.0,7+,Republic Pictures Home Video,Classics,7.4,50992.0,USA
+373,The Big Country,166.0,13+,MGM/UA,Classics,7.9,15338.0,USA
+375,Rosemary's Baby,136.0,18+,Paramount Pictures,Classics,8.0,187646.0,USA
+376,The Ape,62.0,7+,Monogram,Classics,4.5,889.0,USA
+379,Guys and Dolls,149.0,13+,MGM,Classics,7.2,15212.0,USA
+380,Death Wish,93.0,18+,Paramount Pictures,Classics,6.4,61564.0,"USA, Canada"
+383,Anna Karenina,130.0,18+,WARNER BROTHERS PICTURES,Classics,6.6,89890.0,UK
+388,Shane,118.0,13+,Paramount Home Video,Classics,7.6,36277.0,USA
+389,The Canterville Ghost,55.0,13+,Warner Home Video,Classics,6.9,2431.0,USA
+390,Frankenstein,87.0,16+,Universal Pictures Company,Classics,5.1,2379.0,"USA, Germany"
+393,Roman Holiday,118.0,7+,Paramount Pictures,Classics,8.0,124684.0,USA
+398,Some Like It Hot,121.0,13+,United Artists,Classics,8.2,238048.0,USA
+400,The Giant Gila Monster,73.0,16+,McLendon-Radio Pictures Distributing Com,Classics,3.6,3413.0,USA
+405,Catch-22,121.0,18+,Paramount Home Video,Classics,7.1,21551.0,USA
+407,Overlord,109.0,18+,Janus Films,Classics,6.6,80870.0,"USA, Canada"
+411,The Out-of-Towners,90.0,13+,Paramount Pictures,Classics,5.5,12801.0,USA
+413,The Horse Soldiers,0.0,13+,United Artists,Classics,7.2,9277.0,USA
+414,Harold and Maude,91.0,7+,Paramount Pictures,Classics,7.9,69468.0,USA
+415,The Informer,113.0,18+,Media Home Entertainment,Classics,6.6,15449.0,UK
+419,Chinatown,130.0,18+,Paramount Pictures,Classics,8.2,286798.0,USA
+424,It's Alive,80.0,13+,Warner Home Video,Classics,3.5,2680.0,USA
+430,Little Women,118.0,7+,Metro-Goldwyn-Mayer (MGM),Classics,5.1,1070.0,USA
+440,Compulsion,84.0,18+,Fox,Classics,4.5,2829.0,Canada
+442,The Jazz Singer,116.0,13+,Warner Bros.,Classics,5.9,3784.0,USA
+445,Moulin Rouge,127.0,13+,MGM Home Entertainment,Classics,7.1,4833.0,UK
+451,The Last House on the Left,84.0,18+,Hallmark Entertainment,Classics,6.5,84103.0,"USA, UK"
+455,To Catch a Thief,106.0,7+,Paramount Pictures,Classics,7.4,62910.0,USA
+457,Breakfast at Tiffany's,114.0,13+,Paramount Pictures,Classics,7.6,163106.0,USA
+458,Night of the Living Dead,95.0,13+,Continental Distributing Inc.,Classics,5.1,292.0,USA
+464,The Odd Couple,105.0,All,Paramount Home Video,Classics,7.7,30880.0,USA
+465,Romeo and Juliet,138.0,7+,MGM,Classics,5.3,394.0,USA
+471,The Gospel of John,0.0,13+,ThinkFilm,Classics,7.6,622.0,"UK, USA, Morocco"
+472,The Most Dangerous Game,62.0,13+,RKO Radio Pictures Inc.,Classics,3.4,226.0,USA
+475,Charade,113.0,7+,Madacy Entertainment,Classics,7.9,66360.0,USA
+477,A Street Cat Named Bob,102.0,13+,Cleopatra Entertainment,Comedy,7.4,26386.0,UK
+482,Seven Psychopaths,110.0,18+,CBS Films,Comedy,7.2,236796.0,"UK, USA"
+484,The Full Monty,91.0,18+,Twentieth Century Fox Home Entertainment,Comedy,7.2,97312.0,"UK, USA"
+487,I'll See You in My Dreams,96.0,13+,Bleecker Street,Comedy,6.7,6857.0,USA
+490,Two Night Stand,86.0,18+,E One Entertainment,Comedy,6.4,64254.0,USA
+491,Bottle Shock,108.0,13+,Freestyle Releasing,Comedy,6.8,14859.0,USA
+492,This Beautiful Fantastic,92.0,7+,AMBI Distribution,Comedy,6.9,9105.0,"UK, USA"
+493,No Such Thing,103.0,18+,United Artists Films/ MGM,Comedy,6.1,3776.0,"USA, Iceland"
+494,Strange Wilderness,84.0,18+,Paramount Classics,Comedy,5.3,20765.0,USA
+498,Just Wright,100.0,13+,20th Century Fox,Comedy,5.9,13220.0,USA
+502,Bottle Rocket,91.0,18+,Columbia Pictures,Comedy,7.0,68528.0,USA
+503,I Love You to Death,105.0,13+,Sony Pictures Home Entertainment,Comedy,6.4,13159.0,USA
+504,Guess Who,105.0,16+,Sony Pictures,Comedy,5.9,39782.0,USA
+506,Ghost,126.0,13+,Paramount Pictures,Comedy,5.2,1228.0,"India, USA"
+510,The Holiday,135.0,13+,Sony Pictures,Comedy,6.9,237300.0,USA
+516,Heathers,103.0,18+,New World Video,Comedy,7.2,86055.0,USA
+517,Ghost Town,102.0,13+,DreamWorks/Paramount Distribution,Comedy,6.7,69101.0,"USA, France"
+520,The Whole Nine Yards,98.0,18+,Warner Home Video,Comedy,6.7,108581.0,USA
+521,Creator,107.0,18+,HBO Video,Comedy,6.2,2938.0,USA
+522,Cooties,88.0,18+,Lionsgate Premiere,Comedy,5.7,22433.0,USA
+524,A Night at the Roxbury,81.0,13+,Paramount Pictures,Comedy,6.3,56159.0,USA
+526,Man of the Year,115.0,13+,Universal Pictures,Comedy,6.2,31529.0,USA
+529,Tortilla Soup,103.0,13+,Samuel Goldwyn Films,Comedy,6.7,4156.0,USA
+530,The Jane Austen Book Club,105.0,13+,Sony Pictures Classics,Comedy,6.8,25809.0,USA
+531,Ladies in Lavender,103.0,13+,IDP,Comedy,7.0,10578.0,UK
+533,Florence Foster Jenkins,110.0,13+,BBC Films,Comedy,6.8,49593.0,"UK, France"
+535,Failure to Launch,96.0,13+,Paramount Pictures,Comedy,5.6,72858.0,USA
+537,Moonrise Kingdom,93.0,13+,Focus Features,Comedy,7.8,311669.0,USA
+539,I'm Gonna Git You Sucka,88.0,18+,MGM Home Entertainment,Comedy,6.6,12073.0,USA
+540,The Double,98.0,13+,Magnolia Pictures,Comedy,6.5,46574.0,UK
+542,Motel Hell,101.0,18+,United Artists,Comedy,6.0,9561.0,USA
+544,UHF,97.0,13+,Orion Pictures Corporation,Comedy,7.0,25478.0,USA
+545,From Other Worlds,84.0,13+,Studio Not Available,Comedy,4.8,150.0,USA
+546,Blind Date,105.0,16+,Variance Releasing,Comedy,5.8,839.0,"USA, UK"
+553,Bruno,81.0,18+,Universal Pictures,Comedy,6.1,1365.0,USA
+555,Just Married,94.0,13+,20th Century Fox,Comedy,5.5,66841.0,"USA, Germany"
+557,Alien Trespass,84.0,16+,Roadside Attractions,Comedy,5.7,3717.0,"USA, Canada"
+558,World's Greatest Dad,99.0,18+,Magnolia Pictures,Comedy,6.9,36809.0,USA
+559,Stay Tuned,88.0,7+,Warner Home Video,Comedy,6.3,10251.0,USA
+561,Dirty Rotten Scoundrels,110.0,7+,MGM Home Entertainment,Comedy,7.4,63295.0,USA
+564,What About Bob?,99.0,7+,Touchstone Home Entertainment,Comedy,7.0,61318.0,USA
+566,Piranha,93.0,18+,The Weinstein Company/Dimension Films,Comedy,5.9,18515.0,"USA, Japan"
+568,Four Lions,101.0,18+,Drafthouse Films,Comedy,7.3,70467.0,"UK, France"
+569,The Truman Show,102.0,7+,Paramount Pictures,Comedy,8.1,910502.0,USA
+572,Blue Jasmine,98.0,13+,Sony Pictures Classics,Comedy,7.3,189028.0,USA
+574,Sydney White,108.0,13+,Universal Pictures,Comedy,6.2,45476.0,USA
+575,Galaxy Quest,102.0,7+,DreamWorks SKG,Comedy,7.3,146064.0,USA
+577,Some Kind of Wonderful,94.0,18+,Paramount Home Video,Comedy,7.1,27065.0,USA
+578,Scrooged,100.0,13+,Paramount Pictures,Comedy,7.0,83168.0,USA
+580,What to Expect When You're Expecting,109.0,13+,Lionsgate Films,Comedy,5.7,68847.0,USA
+582,Did You Hear About the Morgans?,103.0,13+,Sony Pictures/Columbia,Comedy,4.8,37186.0,USA
+584,Fever Pitch,103.0,13+,20th Century Fox,Comedy,6.2,41815.0,"USA, Germany"
+591,Top Secret!,90.0,13+,Paramount Home Video,Comedy,7.2,58881.0,"UK, USA"
+592,Coming to America,116.0,16+,Paramount Pictures,Comedy,7.0,160374.0,USA
+596,Johnny English,87.0,7+,Universal Pictures,Comedy,6.2,145084.0,"UK, France, USA"
+597,Vampire in Brooklyn,102.0,18+,Paramount,Comedy,4.6,21153.0,USA
+598,Bull Durham,108.0,18+,Orion Pictures,Comedy,7.1,46819.0,USA
+603,High Life,113.0,18+,Union Pictures,Comedy,5.8,25994.0,"France, UK, Germany, Poland, USA"
+605,The Starving Games,82.0,13+,Ketchup Entertainment,Comedy,3.2,18688.0,USA
+608,"Love, Rosie",102.0,18+,Film Arcade,Comedy,7.2,117353.0,"Germany, UK"
+609,Teen Witch,93.0,13+,Media Home Entertainment,Comedy,6.1,8057.0,USA
+610,Bad News Bears,113.0,13+,Paramount Pictures,Comedy,5.8,20343.0,USA
+611,Four Weddings and a Funeral,117.0,18+,Gramercy Pictures,Comedy,7.0,136126.0,UK
+613,Ladybugs,89.0,13+,Paramount Home Video,Comedy,5.5,8694.0,USA
+617,Shirley Valentine,108.0,18+,Paramount Home Video,Comedy,7.2,6988.0,"UK, USA"
+618,Forgetting Sarah Marshall,111.0,18+,Universal Pictures,Comedy,7.1,259276.0,USA
+620,Return to Me,115.0,7+,MGM Distribution,Comedy,6.9,19351.0,USA
+621,Home for the Holidays,103.0,13+,Passport,Comedy,6.6,11544.0,USA
+623,Beloved,171.0,18+,IFC Films,Comedy,6.0,6987.0,USA
+625,The Wedding Planner,103.0,13+,Columbia Pictures,Comedy,5.3,74640.0,"Germany, USA"
+627,Larry Crowne,98.0,13+,Universal Pictures,Comedy,6.1,62434.0,"USA, France"
+629,Bad Taste,91.0,16+,WingNut Films,Comedy,6.6,43289.0,New Zealand
+630,The Big Sick,119.0,18+,Amazon Studios,Comedy,7.5,117533.0,USA
+631,Head of State,95.0,18+,DreamWorks SKG,Comedy,5.5,17935.0,USA
+632,That Thing You Do!,107.0,7+,20th Century Fox,Comedy,6.9,61290.0,USA
+634,Mystic Pizza,104.0,18+,MGM Home Entertainment,Comedy,6.3,24303.0,USA
+639,Last Flag Flying,124.0,18+,Amazon Studios,Comedy,6.9,21894.0,USA
+640,John Tucker Must Die,89.0,13+,20th Century Fox,Comedy,5.8,78531.0,"USA, Canada"
+642,House II: The Second Story,87.0,13+,New World,Comedy,5.4,9928.0,USA
+643,Bride of Re-Animator,96.0,13+,LionsGate Entertainment,Comedy,6.3,13390.0,USA
+644,50/50,100.0,18+,Summit Entertainment,Comedy,7.6,311992.0,USA
+647,Waiting to Exhale,123.0,18+,Twentieth Century Fox Home Entertainment,Comedy,5.9,9353.0,USA
+651,Because I Said So,101.0,13+,Universal Pictures,Comedy,5.7,36905.0,USA
+653,Dazed and Confused,103.0,18+,Gramercy Pictures,Comedy,7.6,161506.0,USA
+654,Evan Almighty,95.0,7+,Universal Pictures,Comedy,5.4,137414.0,USA
+656,Life Itself,117.0,18+,Magnolia Pictures,Documentary,6.8,15892.0,"USA, Spain"
+664,Flowers in the Attic,91.0,13+,Front Street Pictures,Documentary,5.8,9151.0,USA
+665,Blood Brother,85.0,18+,Animal,Documentary,4.4,702.0,USA
+667,The Hornet's Nest,96.0,18+,Freestyle Releasing,Documentary,5.8,109.0,UK
+669,Orlando,93.0,13+,Sony Pictures Classics,Drama,7.2,13937.0,"UK, Russia, Italy, France, Netherlands"
+670,Northern Soul,101.0,18+,Freestyle Releasing,Drama,6.4,3577.0,UK
+673,Danny Collins,107.0,18+,Bleecker Street Films,Drama,7.0,29512.0,USA
+678,Pawn Sacrifice,115.0,13+,Bleecker Street,Drama,7.0,38809.0,USA
+681,Bats,91.0,13+,Destination Films,Drama,3.9,9385.0,USA
+682,The Elephant Man,123.0,7+,Paramount,Drama,8.1,214473.0,"USA, UK"
+683,The Words,97.0,13+,CBS Films,Drama,7.0,73616.0,USA
+701,Leave No Trace,108.0,7+,Bleecker Street,Drama,7.2,47559.0,"USA, Canada"
+703,Parkland,93.0,13+,Exclusive Releasing,Drama,6.4,14903.0,USA
+704,The Man Who Fell to Earth,139.0,18+,Rialto Pictures,Drama,6.7,23551.0,UK
+710,Freeway,101.0,18+,Republic Pictures Home Video,Drama,6.8,25909.0,"USA, France"
+715,The Way Back,133.0,13+,Newmarket Films LLC,Drama,6.7,23769.0,"USA, Canada"
+717,The Ghost Writer,128.0,13+,Summit Entertainment,Drama,7.2,154364.0,"France, Germany, UK"
+718,Fatal Attraction,119.0,18+,Paramount Pictures,Drama,6.9,74368.0,USA
+725,Heartburn,109.0,18+,Paramount Pictures,Drama,6.1,9261.0,USA
+726,The Hero,96.0,16+,The Orchard,Drama,6.5,7828.0,USA
+735,"I Love You, Man",104.0,18+,Dreamworks/Paramount,Drama,7.0,191738.0,USA
+736,Annapolis,103.0,13+,Walt Disney Pictures,Drama,5.9,20132.0,USA
+740,The Man in the Moon,99.0,13+,MGM,Drama,7.4,15133.0,USA
+743,Inside Llewyn Davis,104.0,18+,CBS Films,Drama,7.5,135904.0,"USA, UK, France"
+745,The Gift,111.0,18+,Paramount Classics,Drama,7.0,135834.0,"USA, Australia, China"
+747,Clue,96.0,7+,Paramount Pictures,Drama,7.3,78800.0,USA
+748,Miss Potter,92.0,7+,MGM,Drama,6.9,27532.0,"UK, USA, Isle Of Man"
+761,Beautiful Boy,0.0,18+,Anchor Bay Films,Drama,6.6,6279.0,"USA, Canada"
+763,The Perfect Game,117.0,7+,Visio Entertainment,Drama,6.9,3284.0,"Canada, USA, Mexico"
+768,Jungle,115.0,18+,Momentum Pictures,Drama,6.7,43892.0,"Australia, Colombia, UK"
+770,Where Hope Grows,98.0,13+,Roadside Attractions,Drama,6.6,2912.0,USA
+773,Chaplin,144.0,13+,Columbia TriStar,Drama,7.2,365.0,India
+777,Rupture,100.0,18+,AMBI Media Group,Drama,4.8,6180.0,"Canada, USA"
+778,Prodigy,80.0,18+,Studio Not Available,Drama,3.4,228.0,USA
+783,Bliss,103.0,18+,Sony Pictures Entertainment,Drama,5.8,3155.0,USA
+786,Extinction,114.0,18+,Vertical Entertainment,Drama,5.9,15640.0,"Spain, USA, Hungary, France"
+789,Brain Dead,84.0,18+,Concorde/New Horizons Home Video,Drama,5.1,1059.0,USA
+791,The Falling,90.0,18+,Cinedigm,Drama,5.4,5903.0,UK
+796,Untraceable,100.0,18+,Sony/Screen Gems,Drama,6.2,46812.0,USA
+799,The Happening,90.0,18+,20th Century Fox,Drama,5.0,193156.0,"USA, India"
+809,Frankie & Alice,101.0,18+,Code Black Entertainment,Drama,6.5,5055.0,Canada
+810,The Terminal,128.0,13+,DreamWorks SKG,Drama,7.4,396732.0,USA
+817,A.I. Artificial Intelligence,145.0,13+,Dreamworks,Drama,7.2,286428.0,"USA, UK"
+821,Nobody's Fool,110.0,18+,Paramount Home Video,Drama,4.8,6043.0,USA
+831,Bad Samaritan,110.0,18+,Electric Entertainment,Drama,6.4,17912.0,USA
+832,The Grudge,91.0,13+,Sony Pictures Entertainment,Drama,4.2,17156.0,"USA, Canada"
+842,Out of Africa,161.0,7+,Universal Pictures,Drama,7.2,70818.0,"USA, UK"
+851,Black Snake Moan,115.0,18+,Paramount Vantage,Drama,6.9,60390.0,USA
+866,Blackbird,97.0,18+,RLJE/Image Entertainment,Drama,6.8,187.0,"USA, UK"
+876,Rain Man,133.0,18+,MGM,Drama,8.0,465105.0,USA
+885,All Good Things,100.0,18+,Magnolia Pictures,Drama,6.3,51943.0,USA
+888,The Killer Shrews,68.0,16+,Legend Films,Drama,4.1,4349.0,USA
+891,World Trade Center,129.0,13+,Paramount Pictures,Drama,5.9,76697.0,USA
+892,Ida,82.0,13+,Music Box Films,Drama,7.4,51676.0,"Poland, Denmark, France, UK"
+901,Searching for Bobby Fischer,109.0,7+,Paramount Home Video,Drama,7.4,28794.0,USA
+902,"Lovely, Still",92.0,13+,Monterey Media,Drama,7.1,2092.0,USA
+905,No Turning Back,90.0,16+,Innovation Film Group,Drama,5.8,298.0,"USA, Spain, Australia"
+906,Hart's War,124.0,18+,MGM/UA,Drama,6.3,50267.0,USA
+913,Radio Free Albemuth,111.0,18+,Freestyle Releasing,Drama,5.6,1557.0,USA
+916,The Uninvited,87.0,13+,DreamWorks/Paramount Studios,Drama,4.0,713.0,USA
+922,The Christmas Candle,100.0,7+,Echolight Studios,Drama,6.2,1736.0,"UK, USA"
+925,Eagle Eye,117.0,13+,Paramount Studios,Drama,6.6,173902.0,"USA, Germany"
+931,The Return,99.0,18+,Focus Features,Drama,4.9,206.0,USA
+934,The Ring,115.0,13+,DreamWorks SKG,Drama,7.1,315069.0,USA
+947,Staying Alive,96.0,7+,Paramount Home Video,Drama,5.7,398.0,Norway
+953,Cocktail,103.0,18+,Touchstone Pictures,Drama,6.3,13100.0,"UK, India"
+959,Spare Parts,114.0,13+,Pantelion Films,Drama,7.3,10306.0,"USA, Mexico"
+964,In the Electric Mist,102.0,18+,Image Entertainment,Drama,6.1,16356.0,"France, USA"
+965,Prince,129.0,13+,Vice Media,Drama,4.2,1870.0,India
+970,Sliver,106.0,18+,Paramount Home Video,Drama,5.1,28543.0,USA
+971,The Circle,109.0,13+,EuropaCorp / STXfilms,Drama,5.3,81826.0,"United Arab Emirates, USA, France"
+981,Milk,128.0,18+,Focus Features,Drama,7.5,162475.0,USA
+998,Grey Owl,117.0,18+,Beaver Productions,Drama,6.0,3337.0,"UK, Canada"
+999,Courageous,129.0,13+,Sony Pictures,Drama,7.0,18794.0,USA
+1002,Regarding Henry,107.0,13+,Paramount Home Video,Drama,6.7,28936.0,USA
+1004,96 Souls,112.0,13+,SJPL Films,Drama,6.5,998.0,USA
+1005,Listening,97.0,16+,Young Medium,Drama,5.6,3058.0,"USA, Cambodia"
+1006,Losing Isaiah,106.0,18+,Paramount Home Video,Drama,6.5,5417.0,USA
+1010,Ordinary People,124.0,18+,Paramount Pictures,Drama,6.1,384.0,"Serbia, Netherlands, France, Switzerland"
+1022,Internal Affairs,114.0,18+,Paramount Pictures,Drama,6.5,17182.0,"USA, Canada"
+1028,Arcadia,89.0,13+,Film Movement,Drama,4.1,218.0,UK
+1034,Afflicted,85.0,18+,CBS Films,Drama,6.3,21333.0,"Canada, USA"
+1035,Digging Up the Marrow,88.0,16+,RLJE/Image Entertainment,Drama,5.8,4552.0,USA
+1036,Mr. Church,105.0,13+,Envision Media Arts,Drama,7.6,25015.0,USA
+1039,The Village,107.0,13+,Buena Vista,Drama,6.5,238570.0,USA
+1041,Monster's Ball,111.0,18+,Lions Gate Films Inc.,Drama,7.0,81502.0,USA
+1043,The Duchess,109.0,13+,Paramount Vantage,Drama,6.9,77106.0,"UK, Italy, France, USA"
+1044,The First Time,95.0,13+,Samuel Goldwyn Films,Drama,6.8,65405.0,USA
+1050,The Dressmaker,118.0,16+,Amazon Studios & Broad Green Pictures,Drama,7.1,51738.0,Australia
+1052,Atlas Shrugged: Part I,96.0,13+,Rocky Mountain Pictures,Drama,5.6,12980.0,USA
+1058,Hard Candy,104.0,18+,Lions Gate Films,Drama,7.1,151976.0,USA
+1061,The Lincoln Lawyer,118.0,18+,Lionsgate Films,Drama,7.3,209759.0,USA
+1072,The Night of the Hunter,92.0,13+,United Artists,Drama,8.0,80215.0,USA
+1075,West Side Story,153.0,13+,United Artists Films,Drama,7.5,94819.0,USA
+1076,Explorers,109.0,7+,Paramount Studios,Drama,6.6,19374.0,USA
+1078,Coherence,88.0,18+,Oscilloscope Pictures,Drama,7.2,103653.0,"USA, UK"
+1088,The Ultimate Gift,117.0,7+,Fox Faith,Drama,7.3,17498.0,USA
+1089,And So It Goes,93.0,13+,Clarius Entertainment,Drama,5.8,12539.0,USA
+1091,Vanilla Sky,135.0,18+,Paramount Pictures,Drama,6.9,244825.0,"USA, Spain"
+1096,Mommie Dearest,128.0,7+,Paramount Pictures,Drama,6.7,14035.0,USA
+1097,Pride,0.0,18+,CBS Films,Drama,7.8,50641.0,"UK, France, USA"
+1099,W.,129.0,13+,Lionsgate,Drama,6.3,45638.0,"USA, Australia, Hong Kong, Switzerland, China"
+1103,Branded,106.0,18+,Barbossa/Roadside Attraction,Drama,4.7,8745.0,"USA, Russia"
+1105,We Were Soldiers,138.0,18+,Paramount Pictures,Drama,7.2,127888.0,"USA, Germany, France"
+1106,Let There Be Light,100.0,13+,Atlas Distribution,Drama,6.7,267.0,"Slovakia, Czech Republic"
+1108,Better Watch Out,88.0,18+,Well Go USA Entertainment,Drama,6.5,28490.0,"Australia, USA"
+1124,Love & Mercy,121.0,13+,Roadside Attractions,Drama,7.4,35291.0,USA
+1125,Dr. Jekyll and Mr. Hyde,82.0,18+,Paramount Pictures,Drama,6.6,464.0,USA
+1129,Still Mine,103.0,13+,Samuel Goldwyn Films,Drama,7.4,4001.0,Canada
+1130,A Simple Plan,121.0,18+,Paramount,Drama,7.5,62089.0,"UK, Germany, France, USA, Japan"
+1134,The Ruins,90.0,18+,DreamWorks/Paramount Studios,Horror,5.8,69194.0,"USA, Germany, Australia"
+1135,The Stuff,86.0,18+,New World Video,Horror,5.9,13343.0,USA
+1137,The Dead Zone,103.0,18+,Paramount Pictures,Horror,7.2,60037.0,USA
+1139,Creature,94.0,18+,Independent Pictures,Horror,3.1,1229.0,India
+1145,Frailty,99.0,18+,Lions Gate Films,Horror,7.2,75365.0,"USA, Germany, Italy"
+1146,Aftershock,92.0,18+,The Weinstein Company,Horror,4.8,11087.0,"USA, Chile"
+1148,The Exorcist III,109.0,18+,WARNER BROTHERS PICTURES,Horror,6.4,24772.0,USA
+1155,V/H/S,116.0,18+,Magnolia Pictures,Horror,5.8,56011.0,USA
+1164,House of 1000 Corpses,88.0,18+,Lions Gate Films Inc.,Horror,6.1,74975.0,USA
+1167,Creepshow 2,89.0,18+,New World Video,Horror,6.1,21923.0,USA
+1191,Pulse,85.0,18+,The Weinstein Company,Horror,4.8,27819.0,"USA, Romania, South Africa"
+1196,Candyman: Farewell to the Flesh,94.0,18+,PolyGram Video,Horror,5.3,10248.0,"USA, UK"
+1199,Repo! The Genetic Opera,97.0,18+,Lionsgate Films,Horror,6.6,23253.0,USA
+1201,Hatchet,84.0,18+,Anchor Bay Entertainment,Horror,5.7,28336.0,USA
+1207,The Descent,98.0,18+,Lionsgate,Horror,7.2,196964.0,UK
+1208,Manborg,71.0,18+,Dark Sky Films,Horror,5.5,2376.0,Canada
+1209,Lifeforce,116.0,18+,TriStar Pictures,Horror,6.2,21808.0,"UK, USA"
+1211,Mirrors,90.0,16+,Buena Vista,Horror,6.2,100915.0,"USA, Romania, Germany"
+1221,Southbound,89.0,18+,Studio Not Available,Horror,5.9,16142.0,USA
+1235,Jinn,97.0,13+,Freestyle Releasing,Horror,5.5,297.0,USA
+1237,Harbinger Down,81.0,18+,Vertical Entertainment,Horror,4.5,5552.0,USA
+1257,Click,107.0,13+,Sony Pictures Releasing,Kids&Family,3.5,307.0,India
+1268,Snow Day,89.0,7+,Paramount Pictures,Kids&Family,5.1,11354.0,USA
+1275,The Muppets Take Manhattan,94.0,All,Sony Pictures Home Entertainment,Kids&Family,6.9,19073.0,USA
+1324,High Noon,84.0,7+,United Artists,Mystery,7.9,95573.0,USA
+1328,Cold Skin,106.0,16+,Samuel Goldwyn Films,Mystery,6.0,11544.0,"Spain, France"
+1351,The Core,134.0,13+,Paramount Pictures,Mystery,5.5,91958.0,"USA, Germany, Canada, UK, Italy, France"
+1393,Anna,98.0,18+,Vertical Entertainment,Mystery,6.6,55206.0,"France, USA, Canada, Russia"
+1403,I Still See You,98.0,13+,Lionsgate,Mystery,5.8,7894.0,USA
+1439,Be Afraid,96.0,18+,DarkShed,Mystery,4.8,1861.0,USA
+1476,Fargo,98.0,18+,MGM,Mystery,8.1,600952.0,"USA, UK"
+1478,Straw Dogs,109.0,18+,Sony Pictures/Screen Gems,Mystery,5.8,32371.0,USA
+1486,In Time,109.0,13+,20th Century Fox,Mystery,6.7,363670.0,USA
+1490,The Reef,87.0,18+,Image Entertainment,Mystery,5.8,16905.0,Australia
+1493,Look Away,103.0,18+,Vertical Entertainment,Mystery,5.9,13390.0,"USA, Canada"
+1494,Next,96.0,13+,Paramount Pictures,Mystery,6.2,146484.0,USA
+1496,Crawl,87.0,18+,Bloody Disgusting,Mystery,6.2,61874.0,"USA, Serbia, Canada"
+1513,The Perfect Host,92.0,18+,Magnolia Pictures,Mystery,6.8,24441.0,USA
+1528,Odd Thomas,96.0,16+,RLJ/Image Entertainment,Mystery,6.8,46873.0,"USA, UK"
+1540,A Thousand Kisses Deep,84.0,16+,Tomori Films,Mystery,5.0,421.0,"UK, USA"
+1555,Miss Sloane,132.0,18+,EuropaCorp,Mystery,7.5,61749.0,"France, USA, UK, Canada"
+1641,Sense and Sensibility,136.0,7+,Columbia Pictures,Romance,7.6,99493.0,"USA, UK"
+1666,Absolutely Anything,85.0,18+,Atlas Distribution,Romance,6.0,38716.0,UK
+1689,Moonstruck,101.0,16+,MGM Home Entertainment,Romance,7.1,48440.0,USA
+1690,Much Ado About Nothing,110.0,13+,Screenvision,Romance,8.6,556.0,UK
+1768,Phase IV,83.0,16+,Paramount Pictures,SciFi,5.0,395.0,Canada
+1775,Starcrash,91.0,13+,New World,SciFi,4.0,6086.0,"USA, Italy"
+1817,Battle Beyond the Stars,102.0,13+,New World Pictures,SciFi,5.5,7793.0,USA
